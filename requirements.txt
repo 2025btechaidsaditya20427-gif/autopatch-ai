@@ -1,0 +1,4 @@
+langgraph
+pytest
+streamlit
+python-dotenv
